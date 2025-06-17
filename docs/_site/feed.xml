@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-06-15T13:30:31+02:00</updated><id>https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/feed.xml</id><title type="html">GSoC 2025  Shu Xiao</title><entry><title type="html">Week 2</title><link href="https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/blog/2025-06-09-Week-2/" rel="alternate" type="text/html" title="Week 2" /><published>2025-06-09T00:00:00+02:00</published><updated>2025-06-09T00:00:00+02:00</updated><id>https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/blog/Week-2</id><content type="html" xml:base="https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/blog/2025-06-09-Week-2/">&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;GSOC Coding Week 2 Progress Report&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;video_container&quot;&gt;
+&lt;iframe src=&quot;&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="blog" /><summary type="html">GSOC Coding Week 2 Progress Report</summary></entry><entry><title type="html">Week 1</title><link href="https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/blog/2025-06-02-Week-1/" rel="alternate" type="text/html" title="Week 1" /><published>2025-06-02T00:00:00+02:00</published><updated>2025-06-02T00:00:00+02:00</updated><id>https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/blog/Week-1</id><content type="html" xml:base="https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/blog/2025-06-02-Week-1/">&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;GSOC Coding Week 1 Progress Report&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gsoc2021-Arkajyoti_Basak/assets/img/blogs/labyrinth_escape.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This week I started by creating a new &lt;strong&gt;simple_labyrinth_green&lt;/strong&gt; model which is a modified version of the existing &lt;strong&gt;simple_labyrinth&lt;/strong&gt; model. I am attaching a screenshot of both the models. Left one is the old model and right one is the new model.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gsoc2021-Arkajyoti_Basak/assets/img/blogs/labyrinth_escape_model_comparison.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then I migrated the Labyrinth Escape exercise from &lt;abbr title=&quot;Robot Operating System&quot;&gt;ROS&lt;/abbr&gt;-node to Web-template based. The goal of this exercise is to implement the logic that allows a quadrotor to escape a labyrinth through visual signals placed on the ground. Here is a teasor video of the labyrinth escape exercise in web-template:&lt;/p&gt;
+
+&lt;div class=&quot;video_container&quot;&gt;
+&lt;iframe src=&quot;https://youtube.com/embed/W8_lyyt7g5w?mute=1&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; class=&quot;video&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="blog" /><summary type="html">GSOC Coding Week 1 Progress Report</summary></entry><entry><title type="html">Community Bonding Period</title><link href="https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/blog/2025-05-30-Community-Bonding-Period/" rel="alternate" type="text/html" title="Community Bonding Period" /><published>2025-05-30T00:00:00+02:00</published><updated>2025-05-30T00:00:00+02:00</updated><id>https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/blog/Community-Bonding-Period</id><content type="html" xml:base="https://shu980101.github.io/gsoc2025-Shu_Xiao//gsoc2025-Shu_Xiao/blog/2025-05-30-Community-Bonding-Period/">&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;The period of time between when accepted students are announced and the time these students are expected to start coding. This time is an excellent one to introduce students to the community, get them on the right mailing lists, working with their mentors on their timeline for the summer, etc.&lt;/em&gt; &lt;a href=&quot;https://developers.google.com/open-source/gsoc/resources/glossary#community_bonding_period&quot;&gt;&lt;abbr title=&quot;Source&quot;&gt;1&lt;/abbr&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;what-did-i-do-in-this-period&quot;&gt;What did I do in this period?&lt;/h2&gt;
+
+&lt;p&gt;Discussed and planned my &lt;abbr title=&quot;Google Summer of Code&quot;&gt;GSOC&lt;/abbr&gt; work with the mentors. I also had my first meeting with my mentors, they are very helpful and supportive. Got familiar with the codebase and other web technologies involved. Learned how to add a sensor to a robot, created a simple PyQt5 widget, and learned &lt;abbr title=&quot;Robot Operating System&quot;&gt;ROS&lt;/abbr&gt;-Control. I started working on the &lt;abbr title=&quot;RoboticsAcademy Docker Image&quot;&gt;RADI&lt;/abbr&gt;-noetic focussing on the drone exercises. I’ve opened an &lt;a href=&quot;https://github.com/JdeRobot/RoboticsAcademy/issues/977&quot;&gt;issue&lt;/a&gt; and making the changes required.&lt;/p&gt;
+
+&lt;p class=&quot;read-more&quot;&gt;Continue with &lt;a href=&quot;../extras/community-bonding-usage-and-video-demonstration.md&quot; class=&quot;heading flip-title&quot;&gt;Usage and Video Demonstration of the Qt widget&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ok-whats-next&quot;&gt;OK, What’s next?&lt;/h2&gt;
+
+&lt;p&gt;Currently, the drone model spawns correctly but the drone does not takeoff. Continue working on the &lt;abbr title=&quot;RoboticsAcademy Docker Image&quot;&gt;RADI&lt;/abbr&gt;-noetic issue. The coding period begins on 7th June, and I am really looking forward to having a great time ahead.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><summary type="html">The period of time between when accepted students are announced and the time these students are expected to start coding. This time is an excellent one to introduce students to the community, get them on the right mailing lists, working with their mentors on their timeline for the summer, etc. 1</summary></entry></feed>

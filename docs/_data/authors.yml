@@ -1,0 +1,11 @@
+# The primary author of this blog.
+# Change `author1` to your shortname.
+author1:
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    github:          https://github.com/Shu980101
+    email:           shu.xiao@students.iaac.net
+    linkedin:        https://www.linkedin.com/in/shu-xiao-a74342133/

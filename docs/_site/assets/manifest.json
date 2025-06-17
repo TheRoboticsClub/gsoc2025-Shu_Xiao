@@ -1,0 +1,43 @@
+{
+  "lang": "en",
+  "name": "GSoC 2025  Shu Xiao",
+  "short_name": "GSoC 2025  Shu Xiao",
+  "description": "",
+  "start_url": "/gsoc2025-Shu_Xiao/?utm_source=homescreen",
+  "theme_color": "rgb(67,137,157)",
+  "background_color": "#fff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/gsoc2025-Shu_Xiao/assets/icons/icon@0,25x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/gsoc2025-Shu_Xiao/assets/icons/icon@0,5x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/gsoc2025-Shu_Xiao/assets/icons/icon@0,75x.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/gsoc2025-Shu_Xiao/assets/icons/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/gsoc2025-Shu_Xiao/assets/icons/icon@2x.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/gsoc2025-Shu_Xiao/assets/icons/icon@3x.png",
+      "type": "image/png",
+      "sizes": "576x576"
+    }
+  ]
+}
