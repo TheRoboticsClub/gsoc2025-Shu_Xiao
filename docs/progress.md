@@ -18,5 +18,10 @@ title: Progress
 | Week 8 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-07-27-Week-8/) | Fully migrated env to ROS2 + MoveIt2, validated system |
 | Week 9 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-08-03-Week-9/) | Updated PCL filters + msgs, fixed reset + color detection |
 | Week 10 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-08-10-Week-10/) | Built PERCEPTION API, refined filters, stabilized pcl_filter_server |
-| Week 11 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-08-17-Week-11/) | Test HAL API, link perception outputs to motion planning |
-| Week 12 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-08-24-Week-12/) | Final integration, docs, bug fixes, submission prep |
+| Week 11 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-08-17-Week-11/) | Tested HAL API, hardcoded pick-and-place, fixed planning via camera reposition |
+| Week 12 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-08-24-Week-12/) | Fixed gripper control, integrated perception outputs into pick-and-place |
+| Week 13 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-08-31-Week-13/) | Restructured launch files with MoveItConfigsBuilder, enabled planning scene |
+| Week 14 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-09-07-Week-14/) | Tested planning scene, functional but includes objects (to refine later) |
+| Week 15 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-09-14-Week-15/) | Dropped planning scene (collision issues), explored Robotics Academy structure |
+| Week 16 | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-09-21-Week-16/) | Fully integrated into RA, developed web-based algorithm, docs + final submission |
+| Final Report | [LINK](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-09-28-Final-Report/) | Summary of all milestones, deliverables, results, and future work |
