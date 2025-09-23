@@ -3,6 +3,8 @@ baseurl:               '/gsoc2025-Shu_Xiao'
 lang:                  en
 title:                 GSoC 2025 Shu Xiao
 logo:                  /assets/icons/logo.png
+future: true
+timezone: Asia/Singapore
 menu:
   - title:             About
     url:               /about/
