@@ -1,3 +1,8 @@
+---
+layout: post
+title: Final Report
+---
+
 # GSoC 2025 Final Report – Shu Xiao
 
 ## 1. Personal Information
