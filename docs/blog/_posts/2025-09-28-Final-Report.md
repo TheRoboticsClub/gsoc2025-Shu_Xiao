@@ -12,8 +12,6 @@ title: Final Report
 - **GitHub**: [https://github.com/Shu980101](https://github.com/Shu980101)  
 - **Country & Time Zone**: Spain (CET, UTC+1)  
 
----
-
 ## 2. Title of the Project
 **Migration and Enhancement of 'Machine Vision' Exercise to ROS2 + MoveIt2 in Robotics Academy**
 
@@ -21,8 +19,6 @@ title: Final Report
 <div class="video_container">
 <iframe src="https://www.youtube.com/embed/s74suaPilt8" title="Final Machine Vision Exercise Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
 </div>
-
----
 
 ## 3. Brief
 This project focused on migrating the **Machine Vision** exercise from the old Robotics Academy (ROS1 + MoveIt1) to the new **ROS2 + MoveIt2** ecosystem.  
@@ -36,7 +32,6 @@ The work included:
 
 The new version delivers a robust, modular, and student-friendly exercise aligned with current ROS2 best practices.
 
----
 
 ## 4. Benefits to the Community
 This project makes Robotics Academy more **accessible and relevant** for today‚Äôs learners:  
@@ -47,7 +42,6 @@ This project makes Robotics Academy more **accessible and relevant** for today‚Ä
 - üìù Includes clear documentation to help students, mentors, and maintainers  
 - üîÑ Improves long-term maintainability by aligning with **ROS2 standards**  
 
----
 
 ## 5. Deliverables
 - ‚úÖ **Full migration** of the Machine Vision exercise to ROS2 + MoveIt2  
@@ -59,7 +53,6 @@ This project makes Robotics Academy more **accessible and relevant** for today‚Ä
 - ‚úÖ **Documentation**: setup guide, API reference, student instructions  
 - ‚úÖ **Final submission** merged and demoed successfully  
 
----
 
 ## 6. Timeline and Work Summary
 
@@ -86,7 +79,6 @@ This project makes Robotics Academy more **accessible and relevant** for today‚Ä
 - **Week 15**: Removed planning scene (blocking progress), explored RA structure  
 - **Week 16**: Final integration with Robotics Academy, developed web-based algorithm, prepared documentation and submission  
 
----
 
 ## 7. Technical Details
 - **Languages**: Python, C++  
@@ -95,7 +87,6 @@ This project makes Robotics Academy more **accessible and relevant** for today‚Ä
 - **Libraries**: IFRA-Cranfield ros2_SimRealRobotControl, MoveItConfigsBuilder  
 - **System**: Ubuntu 22.04  
 
----
 
 ## 8. Results
 - Successfully migrated and enhanced the Machine Vision exercise  
@@ -104,7 +95,6 @@ This project makes Robotics Academy more **accessible and relevant** for today‚Ä
 - Integrated the exercise into Robotics Academy with a **web-based GUI**  
 - Produced complete **documentation** for future users and maintainers  
 
----
 
 ## 9. Future Work
 While the project is complete, possible future improvements include:  
@@ -113,7 +103,6 @@ While the project is complete, possible future improvements include:
 - Adding **real-robot integration** for students with hardware access  
 - Improving GUI with **real-time visualization** of planning and execution  
 
----
 
 ## 10. Acknowledgements
 Special thanks to:  
@@ -121,7 +110,6 @@ Special thanks to:
 - The IFRA-Cranfield group for their modular ROS2 framework that helped accelerate migration  
 - The wider ROS and MoveIt2 community for excellent documentation and tutorials  
 
----
 
 üìç *Posted from Barcelona, Spain*  
 üß† *Project: Migration and Enhancement of Machine Vision Exercise to ROS2 + MoveIt2*  
