@@ -11,6 +11,11 @@
 ## 2. Title of the Project
 **Migration and Enhancement of 'Machine Vision' Exercise to ROS2 + MoveIt2 in Robotics Academy**
 
+<strong>Final Machine Vision Exercise Demo</strong><br>
+<div class="video_container">
+<iframe src="https://www.youtube.com/embed/s74suaPilt8" title="Final Machine Vision Exercise Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
+
 ---
 
 ## 3. Brief
