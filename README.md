@@ -30,7 +30,8 @@ The result is a robust, modular, and student-friendly exercise aligned with curr
 ## 🔗 Resources
 - **Code Repository**: [IndustrialRobots Package](https://github.com/TheRoboticsClub/gsoc2025-Shu_Xiao/tree/main/IndustrialRobots)  
 - **Final Demo**: [YouTube Video](https://youtu.be/719pIDC94RU)  
-- **Project Blog**: [GSoC 2025 Blog – Shu Xiao](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/)  
+- **Project Blog**: [GSoC 2025 Blog – Shu Xiao](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/)
+- **Final Report**: [GSoC 2025 Final Report – Shu Xiao](https://theroboticsclub.github.io/gsoc2025-Shu_Xiao/blog/2025-09-28-Final-Report/)
 
 
 ## 👤 Author
