@@ -7,7 +7,6 @@
 This project focused on migrating the **Machine Vision exercise** from the legacy Robotics Academy (**ROS1 + MoveIt1**) to the modern **ROS2 + MoveIt2** ecosystem.  
 The result is a robust, modular, and student-friendly exercise aligned with current **ROS2 best practices**, providing both educational clarity and technical longevity.
 
----
 
 ## 🔧 Main Contributions
 - **ROS2 Migration**
